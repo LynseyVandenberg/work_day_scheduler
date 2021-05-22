@@ -1,5 +1,6 @@
 # Work Day Scheduler
 
+## Description
 This is a basic daily planner that utilizes Moment.js and JQuery to save hourly tasks into local storage. 
 
 ## Acceptance Criteria
@@ -16,4 +17,11 @@ This is a basic daily planner that utilizes Moment.js and JQuery to save hourly 
 * THEN the text for that event is saved in local storage
 * WHEN I refresh the page
 * THEN the saved events persist
+
+# Link
+[Work Day Scheduler](https://lynseyvandenberg.github.io/work_day_scheduler/ "Work Day Scheduler")
+
+# Screenshot
+![image](https://user-images.githubusercontent.com/81693557/119240975-71a6be00-bb21-11eb-85ae-6d73a38096e7.png)
+
 
